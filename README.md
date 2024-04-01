@@ -24,4 +24,4 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to the creators and maintainers of Next.js, Clerk, and getstream.io for providing powerful tools and services that enable the development of this application.
 
 ### Project Inspiration:
-This project was developed based on a tutorial from [YouTube Channel Name](https://www.youtube.com/watch?v=R8CIO1DZ2b8). I want to express my gratitude to the creator of the tutorial for providing valuable guidance and instruction throughout the development process.
+This project was developed based on a tutorial from [JavaScript Mastery](https://www.youtube.com/watch?v=R8CIO1DZ2b8). I want to express my gratitude to the creator of the tutorial for providing valuable guidance and instruction throughout the development process.
