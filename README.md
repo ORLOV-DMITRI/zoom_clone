@@ -16,18 +16,12 @@ This project is a clone of the popular video conferencing application Zoom. It i
 5. **Meeting Recordings**: The application supports the recording of meetings for future reference and sharing.
 6. **View Scheduled Meetings**: Users can see upcoming scheduled meetings to plan their participation in advance.
 
-### How to Run:
-1. Clone this repository to your local machine.
-2. Install dependencies using `npm install`.
-3. Set up Clerk and getstream.io accounts and configure the necessary API keys.
-4. Run the application using `npm run dev`.
-5. Access the application in your browser at `http://localhost:3000`.
-
-### Contributing:
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
 ### License:
 This project is licensed under the [MIT License](LICENSE).
 
 ### Acknowledgments:
 Special thanks to the creators and maintainers of Next.js, Clerk, and getstream.io for providing powerful tools and services that enable the development of this application.
+
+### Project Inspiration:
+This project was developed based on a tutorial from [YouTube Channel Name](https://www.youtube.com/watch?v=R8CIO1DZ2b8). I want to express my gratitude to the creator of the tutorial for providing valuable guidance and instruction throughout the development process.
