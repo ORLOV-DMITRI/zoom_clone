@@ -1,27 +1,31 @@
-# Zoom Clone(https://zoom-clone-eta.vercel.app/)
+# 🎥 Zoom Clone
 
+**[Live Demo](https://loom.dmitri-server.ru/)**
 
-This project is a clone of the popular video conferencing application Zoom. It is built using Next.js as the primary technology stack, along with Next.js Server Actions for enhanced server-side functionality.
+![Next.js](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![Clerk](https://img.shields.io/badge/Clerk-Auth-purple) ![Stream](https://img.shields.io/badge/Stream.io-Video-blue)
 
-### Technologies Used:
-- **Next.js**: Next.js is a React framework that enables server-side rendering and other advanced features, making it ideal for building efficient and scalable web applications.
-- **Clerk**: The project leverages Clerk, a comprehensive User Management Platform, for user authentication, registration, and user data management.
-- **getstream.io**: For video streaming functionality, getstream.io is utilized to enable seamless video conferencing experiences.
+Клон Zoom для видеоконференций с созданием мгновенных встреч, расписанием, записью и историей. Поддерживает быстрое подключение по ссылке и управление встречами.
 
-### Main Features:
-1. **Instant Meeting Creation**: Users can quickly create impromptu meetings for immediate collaboration.
-2. **Scheduled Meetings**: The application allows users to schedule meetings for future dates, providing flexibility and organization.
-3. **Join Meetings via Link**: Users can easily join meetings by clicking on shared meeting links.
-4. **View Previous Meetings**: Access to past meeting records enables users to review discussions and reference past conversations.
-5. **Meeting Recordings**: The application supports the recording of meetings for future reference and sharing.
-6. **View Scheduled Meetings**: Users can see upcoming scheduled meetings to plan their participation in advance.
+---
 
+## Ключевые фишки
 
-### License:
-This project is licensed under the [MIT License](LICENSE).
+- **Мгновенные встречи** - быстрое создание видеозвонков для срочных обсуждений
+- **Запланированные встречи** - расписание встреч на будущее
+- **Подключение по ссылке** - быстрый вход через shared links
+- **История встреч** - доступ к прошлым обсуждениям
+- **Запись встреч** - сохранение видео для последующего просмотра
+- **Clerk авторизация** - безопасная регистрация и управление пользователями
 
-### Acknowledgments:
-Special thanks to the creators and maintainers of Next.js, Clerk, and getstream.io for providing powerful tools and services that enable the development of this application.
+---
 
-### Project Inspiration:
-This project was developed based on a tutorial from [JavaScript Mastery](https://www.youtube.com/watch?v=R8CIO1DZ2b8). I want to express my gratitude to the creator of the tutorial for providing valuable guidance and instruction throughout the development process.
+## Технологии
+
+- **Frontend:** Next.js 14, TypeScript, Stream.io Video SDK
+- **Auth:** Clerk (регистрация, логин, управление пользователями)
+- **Video:** getstream.io (WebRTC видеоконференции)
+- **Деплой:** Vercel
+
+---
+
+**Сделано с Next.js**
