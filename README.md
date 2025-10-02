@@ -4,7 +4,7 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![Clerk](https://img.shields.io/badge/Clerk-Auth-purple) ![Stream](https://img.shields.io/badge/Stream.io-Video-blue)
 
-Клон Zoom для видеоконференций с созданием мгновенных встреч, расписанием, записью и историей. Поддерживает быстрое подключение по ссылке и управление встречами.
+Loom для видеоконференций с созданием мгновенных встреч, расписанием, записью и историей. Поддерживает быстрое подключение по ссылке и управление встречами.
 
 ---
 
