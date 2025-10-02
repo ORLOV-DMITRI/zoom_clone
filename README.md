@@ -1,4 +1,4 @@
-# 🎥 Zoom Clone
+# 🎥 Loom - Видеозвонки
 
 **[Live Demo](https://loom.dmitri-server.ru/)**
 
